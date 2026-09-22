@@ -2,6 +2,8 @@
 
 An original, portfolio-ready Anti-Money Laundering (AML) transaction monitoring and analytics application.
 
+https://aml-insight.streamlit.app/
+
 ## Visual analytics included
 
 - KPI cards: transactions, transaction value, alerts, high-risk transactions
