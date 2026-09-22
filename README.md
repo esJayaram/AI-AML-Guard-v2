@@ -1,4 +1,4 @@
-# AI-AML Guard v2
+# AI-AML Guard v1
 
 An original, portfolio-ready Anti-Money Laundering (AML) transaction monitoring and analytics application.
 
